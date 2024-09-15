@@ -21,8 +21,7 @@
 <ol>
   <li>Clona el repositorio</li>
   <li>Navega a la carpeta BACKEND-ECOMMERCE e instala las dependencias con npm install</li>
-  <li>Crea un archivo src/config crea un archivo serviceAccountKey.json</li>
-  <li>En el archivo serviceAccountKey.json agrega el codigo que esta en el archivo credenciales.txt (este archivo lo comparto por email)</li>
+  <li>Debes crear un archivo `.env` en la raíz del proyecto con las siguientes variables (usa `.env.example` como guía)</li>
   <li>Inicia la micro aplicación de Node: npm run dev</li>
   <li>La aplicación estará disponible en http://localhost:3000 </li>
 </ol>
