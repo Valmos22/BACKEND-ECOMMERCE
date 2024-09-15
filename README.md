@@ -15,7 +15,7 @@
 <h2>Requisitos Previos</h2> 
 <ul>
   <li>Node.js (v14 o superior)</li>
-  <li>npm o yarn</li>
+  <li>npm</li>
 </ul>
 <h2>Instalación</h2>
 <ol>
