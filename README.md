@@ -30,7 +30,6 @@
   <li>Accede a la aplicación web a través de http://localhost:3000</li>
   <li>La coleccion de postman esta disponible en el archivo Ecommerce API.postman_collection usalo para importar la coleccion en tu postman</li>
 </ul>
-https://backend-ecommerce-oqme.onrender.com/
 <h2>Desplegado en servidor</h2>
 <ul>
   <li>La micro aplicacion esta corriendo en: <a href+"https://backend-ecommerce-oqme.onrender.com/"  target="_blank">https://backend-ecommerce-oqme.onrender.com/</a></li>
