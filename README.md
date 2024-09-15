@@ -21,7 +21,7 @@
 <ol>
   <li>Clona el repositorio</li>
   <li>Navega a la carpeta BACKEND-ECOMMERCE e instala las dependencias con npm install</li>
-  <li>Debes crear un archivo `.env` en la raíz del proyecto con las siguientes variables (usa `.env.example` como guía)</li>
+  <li>Debes crear un archivo `.env` en la raíz del proyecto con las siguientes variables (usa `.env.example` como guía copia y pega sin el #)</li>
   <li>Inicia la micro aplicación de Node: npm run dev</li>
   <li>La aplicación estará disponible en http://localhost:3000 </li>
 </ol>
@@ -29,6 +29,11 @@
 <ul>
   <li>Accede a la aplicación web a través de http://localhost:3000</li>
   <li>La coleccion de postman esta disponible en el archivo Ecommerce API.postman_collection usalo para importar la coleccion en tu postman</li>
+</ul>
+https://backend-ecommerce-oqme.onrender.com/
+<h2>Desplegado en servidor</h2>
+<ul>
+  <li>La micro aplicacion esta corriendo en: <a href+"https://backend-ecommerce-oqme.onrender.com/"  target="_blank">https://backend-ecommerce-oqme.onrender.com/</a></li>
 </ul>
 <h2>API Endpoints:</h2>
 <ul>
