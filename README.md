@@ -29,6 +29,7 @@
 <ul>
   <li>Accede a la aplicación web a través de http://localhost:3000</li>
   <li>La coleccion de postman esta disponible en el archivo Ecommerce API.postman_collection usalo para importar la coleccion en tu postman</li>
+  <li>Si quieres hacer pruebas desde postman directamente al servidor ej: https://backend-ecommerce-oqme.onrender.com/api/products</li>
 </ul>
 <h2>Desplegado en servidor</h2>
 <ul>
